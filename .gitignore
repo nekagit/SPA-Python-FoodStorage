@@ -1,0 +1,4 @@
+.env
+startAI.bat
+frontend/.env
+backend/.env
